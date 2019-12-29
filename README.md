@@ -10,6 +10,14 @@ OpenCV (Open Source Computer Vision Library: http://opencv.org) is an open-sourc
 
 I'll be using OpenCV 4.2.0 (latest as of December, 2019) in this repository.
 
+```mermaid
+pie
+    title Pie Chart
+    "Dogs" : 386
+    "Cats" : 85
+    "Rats" : 150 
+```
+
 ||||||||||||||||||||||||||||||
 
 ||||||||||||||||||||||||||||||||||||||||||||
