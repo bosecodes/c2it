@@ -8,6 +8,7 @@ This repo will be regularly updated as I start off with Computer Vision. This is
 
 OpenCV (Open Source Computer Vision Library: http://opencv.org) is an open-source BSD-licensed library that includes several hundreds of computer vision algorithms. The document describes the so-called OpenCV 2.x API, which is essentially a C++ API, as opposed to the C-based OpenCV 1.x API (C API is deprecated and not tested with "C" compiler since OpenCV 2.4 releases)
 
+
 I'll be using OpenCV 4.2.0 (latest as of December, 2019) in this repository.
 
 ```mermaid
